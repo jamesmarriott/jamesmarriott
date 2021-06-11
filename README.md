@@ -2,14 +2,11 @@
 
 ## Making :fish_cake:
 Several games including a ['Quiz Game'](https://jamesmarriott.github.io/English-Learning---Kids-Game/)
-and HTML Canvas based ['Fairground Pop'] game(https://codepen.io/jamesmarriott/pen/mdWGzWR)
+and HTML Canvas based ['Fairground Pop'] game (https://codepen.io/jamesmarriott/pen/mdWGzWR)
 
 ## Learning :seedling:
 - [Imba](https://github.com/imba/imba)
-- [TypeScript)(https://scrimba.com/learn/intrototypescript)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [TypeScript](https://scrimba.com/learn/intrototypescript)
+
+## Collab 👯
+- Help me improve the 2,000 Funny Word API [Funny Words API](https://github.com/jamesmarriott/FunnyWordsAPI)
