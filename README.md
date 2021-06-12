@@ -2,7 +2,7 @@
 
 ## Making :fish_cake:
 Several games including a ['Quiz Game'](https://jamesmarriott.github.io/English-Learning---Kids-Game/)
-and HTML Canvas based ['Fairground Pop'] game (https://codepen.io/jamesmarriott/pen/mdWGzWR)
+and HTML Canvas based ['Fairground Pop'](https://codepen.io/jamesmarriott/pen/mdWGzWR)
 
 ## Learning :seedling:
 - [Imba](https://github.com/imba/imba)
