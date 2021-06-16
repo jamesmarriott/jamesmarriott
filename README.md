@@ -2,10 +2,9 @@
 
 ## Making :fish_cake:
 Several games including a ['Quiz Game'](https://jamesmarriott.github.io/English-Learning---Kids-Game/)
-and HTML Canvas based ['Fairground Pop'](https://codepen.io/jamesmarriott/pen/mdWGzWR)
+. Using React Hooks to make ['WordMatch Game'](https://codesandbox.io/s/react-movable-compare-two-arrays-vd4gz?file=/src/index.tsx)
 
 ## Learning :seedling:
-- [Imba](https://github.com/imba/imba)
 - [TypeScript](https://scrimba.com/learn/intrototypescript)
 
 ## Collab 👯
