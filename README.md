@@ -1,7 +1,7 @@
 ### Hello there fellow humans :alien:
 
 ## Making :fish_cake:
-Odd one out game ['99 emojis](https://nervous-colden-038892.netlify.app/)
+Odd one out game [99 emojis](https://nervous-colden-038892.netlify.app/)
 
 ## Learning :seedling:
 - [TypeScript](https://scrimba.com/learn/intrototypescript)
