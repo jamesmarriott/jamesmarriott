@@ -1,7 +1,7 @@
 ### Hello there fellow humans :alien:
 
 ## Making :fish_cake:
-[Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
+- [Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
 
 ## Learning :seedling:
 - [TypeScript](https://scrimba.com/learn/intrototypescript)
