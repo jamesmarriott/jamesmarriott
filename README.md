@@ -2,9 +2,9 @@
 
 I'm a web developer open to opportunities!
 
-## I'm currently Making :fish_cake:
+## I'm currently making :fish_cake:
 
-### 'Cocktail Master'
+### 'Cocktail Master' :cocktail:
 
 - This app will provide interactive instructions, quizes and how to make cocktails.
 
