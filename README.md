@@ -4,7 +4,7 @@ I'm a web developer open to opportunities!
 
 ## Current Project
 
-### 'Cocktail Master' :cocktail:
+### Cocktail Master :cocktail:
 
 - This app will provide interactive instructions, quizes and how to make cocktails.
 
