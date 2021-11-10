@@ -2,7 +2,7 @@
 
 I'm a web developer open to opportunities!
 
-## I'm currently making :fish_cake:
+## Current Project
 
 ### 'Cocktail Master' :cocktail:
 
@@ -14,14 +14,14 @@ Animations handled with GSAP.
 - [Working Demo](https://cocktailking.netlify.app/)
 - [Repo](https://github.com/jamesmarriott/CocktailKing)
 
-## Featured Projects
+## Other Projects
 
-###Squid Games
+## Squid Games
 A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 - [Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
 
-###99 Emojis
-- [App](
+## 99 Emojis
+- [App](https://99emojis.netlify.app/)
 - [Repo](https://github.com/jamesmarriott/99emojis)
 
 ###Netflix Clone
