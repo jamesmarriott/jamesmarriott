@@ -1,6 +1,8 @@
 ### Hello there fellow humans :alien:
 
-## Making :fish_cake:
+I'm a web developer open to opportunities!
+
+## I'm currently Making :fish_cake:
 
 ### 'Cocktail Master'
 
