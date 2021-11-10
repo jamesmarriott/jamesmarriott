@@ -24,7 +24,7 @@ A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 - [App](https://99emojis.netlify.app/)
 - [Repo](https://github.com/jamesmarriott/99emojis)
 
-###Netflix Clone
+### Netflix Clone
 - [App](https://netflix-cloned-app.netlify.app)
 - [Repo](https://github.com/jamesmarriott/MadLibs-App)
 
