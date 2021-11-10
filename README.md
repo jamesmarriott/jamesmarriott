@@ -34,4 +34,4 @@ A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 
 ## Collab 👯
 - Help me improve the 2,000 Funny Word API [Funny Words API](https://github.com/jamesmarriott/FunnyWordsAPI).
-- I've previously used this for [MadLibs App](https://madlibzapp.netlify.app/)/ Repo(https://github.com/jamesmarriott/MadLibs-App)
+- I've previously used this for [MadLibs App](https://madlibzapp.netlify.app/) [Repo](https://github.com/jamesmarriott/MadLibs-App)
