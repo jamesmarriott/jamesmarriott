@@ -11,8 +11,8 @@ This app will provide interactive instructions, quizes and how to make cocktails
 App is built with React using React Hooks, React Router, Styled Components and Typescript.
 
 Animations handled with GSAP.
-[Working Demo](https://cocktailking.netlify.app/)
-[Repo](https://github.com/jamesmarriott/CocktailKing)
+- [Cocktail Master Demo](https://cocktailking.netlify.app/)
+- [Repo](https://github.com/jamesmarriott/CocktailKing)
 
 
 ## Other Projects
@@ -21,13 +21,12 @@ A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 - [Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
 
 ### 99 Emojis
-- [App](https://99emojis.netlify.app/)
-- [Repo](https://github.com/jamesmarriott/99emojis)
+- [99 Emojis App](https://99emojis.netlify.app/)
+- [99 Emojis Repo](https://github.com/jamesmarriott/99emojis)
 
 ### Netflix Clone
-- [App](https://netflix-cloned-app.netlify.app)
-- [Repo](https://github.com/jamesmarriott/MadLibs-App)
-
+- [Netflix UI Clone App](https://netflix-cloned-app.netlify.app)
+- [Netflix UI Clone Repo](https://github.com/jamesmarriott/MadLibs-App)
 
 ## Learning :seedling:
 - TypeScript
