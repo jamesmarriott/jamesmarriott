@@ -16,11 +16,11 @@ Animations handled with GSAP.
 
 ## Other Projects
 
-## Squid Games
+### Squid Games
 A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 - [Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
 
-## 99 Emojis
+### 99 Emojis
 - [App](https://99emojis.netlify.app/)
 - [Repo](https://github.com/jamesmarriott/99emojis)
 
