@@ -12,13 +12,14 @@ App is built with React using React Hooks, React Router, Styled Components and T
 
 Animations handled with GSAP.
 - [Cocktail Master Demo](https://cocktailking.netlify.app/)
-- [Repo](https://github.com/jamesmarriott/CocktailKing)
+- [Cocktail Master Repo](https://github.com/jamesmarriott/CocktailKing)
 
 
 ## Other Projects
 ### Squid Games
 A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
-- [Squid Game - Glass Bridge ](https://jamesmarriott.github.io/SquidGame/)
+- [Squid Game - App](https://jamesmarriott.github.io/SquidGame/)
+- [Squid Game - Repo](https://github.com/jamesmarriott/SquidGame)
 
 ### 99 Emojis
 - [99 Emojis App](https://99emojis.netlify.app/)
