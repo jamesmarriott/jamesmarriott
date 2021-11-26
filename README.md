@@ -16,6 +16,10 @@ Animations handled with GSAP.
 
 
 ## Other Projects
+## React MarkDown Editor
+- [React MarkDown Editor](https://blissful-poincare-17ba17.netlify.app/)
+
+
 ### Squid Games
 A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 - [Squid Game - App](https://jamesmarriott.github.io/SquidGame/)
