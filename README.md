@@ -17,7 +17,8 @@ Animations handled with GSAP.
 
 ## Other Projects
 ## React MarkDown Editor
-- [React MarkDown Editor](https://blissful-poincare-17ba17.netlify.app/)
+- [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
+- [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
 
 
 ### Squid Games
