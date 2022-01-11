@@ -6,6 +6,7 @@ I'm a web developer open to opportunities!
 
 ## BrewDog Punk API: React Table, Chakra UI
 - [Punk Beer Displayer with React Table and Chakra UI - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
+- [Punk Beer Displayer with React Table and Chakra UI - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
 
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
