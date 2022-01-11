@@ -4,6 +4,9 @@ I'm a web developer open to opportunities!
 
 # Some Projects
 
+## BrewDog Punk API: React Table, Chakra UI
+- [Punk Beer Displayer with React Table and Chakra UI - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
+
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
 - [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
