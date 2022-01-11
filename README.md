@@ -2,7 +2,8 @@
 
 I'm a web developer open to opportunities!
 
-## Some Projects
+### Some Projects
+
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
 - [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
