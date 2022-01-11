@@ -2,24 +2,10 @@
 
 I'm a web developer open to opportunities!
 
-
-## Current Project
-### Cocktail Master :cocktail:
-
-This app will provide interactive instructions, quizes and how to make cocktails.
-
-App is built with React using React Hooks, React Router, Styled Components and Typescript.
-
-Animations handled with GSAP.
-- [Cocktail Master Demo](https://cocktailking.netlify.app/)
-- [Cocktail Master Repo](https://github.com/jamesmarriott/CocktailKing)
-
-
-## Other Projects
+## Some Projects
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
 - [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
-
 
 ### Squid Games
 A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
