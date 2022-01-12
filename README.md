@@ -2,9 +2,9 @@ Hello there fellow humans :alien:
 
 I'm a web developer open to opportunities!
 
-# Some Projects
+# Current Project
 
-## BrewDog Punk API: React Table, Chakra UI
+## GeoKnowledge - Learn about the world: React Table, Chakra UI
 - [Punk Beer Displayer with React Table and Chakra UI - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
 - [Punk Beer Displayer with React Table and Chakra UI - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
 
