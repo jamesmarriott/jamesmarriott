@@ -4,9 +4,9 @@ I'm a web developer open to opportunities!
 
 # Current Project
 
-## GeoKnowledge - Learn about the world: React Table, Chakra UI
-- [Punk Beer Displayer with React Table and Chakra UI - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
-- [Punk Beer Displayer with React Table and Chakra UI - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
+## Cartovex! For map and flag lovers.
+- [Cartovex - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
+- [Cartovex - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
 
 # Other Stuff
 
