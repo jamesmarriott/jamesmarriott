@@ -5,8 +5,8 @@ I'm a web developer open to opportunities!
 # Current Project
 
 ## Cartovex! For map and flag lovers.
-- [Cartovex - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
-- [Cartovex - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
+- [Cartovex - Repo](https://github.com/jamesmarriott/Cartovex)
+- [Cartovex - Demo](https://cartovex.netlify.app/)
 
 # Other Stuff
 
