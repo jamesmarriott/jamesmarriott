@@ -8,12 +8,14 @@ I'm a web developer open to opportunities!
 - [Punk Beer Displayer with React Table and Chakra UI - Repo](https://github.com/jamesmarriott/Punk-Beer-API-with-React-Table)
 - [Punk Beer Displayer with React Table and Chakra UI - Demo](https://brewdogbeersreacttablechakraui.netlify.app/)
 
+# Other Stuff
+
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
 - [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
 
 ### Squid Games
-A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
+A bit of fun. Built using plain old vanilla JS/ CSS.
 - [Squid Game - App](https://jamesmarriott.github.io/SquidGame/)
 - [Squid Game - Repo](https://github.com/jamesmarriott/SquidGame)
 
@@ -27,6 +29,7 @@ A bit of Halloween fun. Build using plain old vanilla JS/ CSS.
 
 ## Learning :seedling:
 - TypeScript
+- Imba
 
 ## Collab 👯
 - Help me improve the 2,000 Funny Word API [Funny Words API](https://github.com/jamesmarriott/FunnyWordsAPI).
