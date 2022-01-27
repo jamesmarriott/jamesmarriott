@@ -4,11 +4,16 @@ I'm a web developer open to opportunities!
 
 # Current Project
 
-## Cartovex! For map and flag lovers.
-- [Cartovex - Repo](https://github.com/jamesmarriott/Cartovex)
-- [Cartovex - Demo](https://cartovex.netlify.app/)
+## FlagFrenzy
+A flag matching game. Uses React, Typescript and Chakra UI.
+
+- [FlagFrenzy - Repo](https://github.com/jamesmarriott/Flagfrenzy)
+- [FlagFrenzy - Demo](https://flagfrenzy.netlify.app/)
 
 # Other Stuff
+## Cartovex! For map and country data lovers.
+- [Cartovex - Repo](https://github.com/jamesmarriott/Cartovex)
+- [Cartovex - Demo](https://cartovex.netlify.app/)
 
 ## React MarkDown Editor
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
