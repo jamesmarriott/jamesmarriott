@@ -1,14 +1,14 @@
-Hello there fellow humans :alien:
+Hi.
 
-I'm a web developer open to opportunities!
+I'm a web developer open for work.
 
 # Current Project
 
-## FlagFrenzy
-A flag matching game. Uses React, Typescript and Chakra UI.
+## Framer Motion Tic Tac Toe
+Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
 
-- [FlagFrenzy - Repo](https://github.com/jamesmarriott/Flagfrenzy)
-- [FlagFrenzy - Demo](https://flagfrenzy.netlify.app/)
+- [TicTacAnimate - Repo](https://github.com/jamesmarriott/react-tic-tac-animate/)
+- [TicTacAnimate - Demo](https://tic-tac-toe-react-framer-motion.netlify.app/)
 
 # Other Stuff
 ## Cartovex! For map and country data lovers.
