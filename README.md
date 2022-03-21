@@ -1,8 +1,7 @@
-# Profile
+I'm a web developer. Most recently I've been focusing on data manipulation and visualisation using React and D3.
 
-I'm a web developer. I'm currently focusing on data manipulation and visualisation using technologies like React and D3.
-
-## React & D3 - Data Visualisation 
+## React & D3 - Data Visualisation Course
+React Data Visualization Course | Using real time data from a cryptocurrency API
 - [YouTube](https://youtu.be/q42JGZG_-Yc)
 
 ### Pie Chart Component
