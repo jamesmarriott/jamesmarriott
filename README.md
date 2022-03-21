@@ -1,4 +1,5 @@
-# I'm a web developer. 
+# James Marriott - Web Dev
+
 My current focus is on data manipulation and visualisation using React and D3.
 
 ### React & D3 - Data Visualisation Course
