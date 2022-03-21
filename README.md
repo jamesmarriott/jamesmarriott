@@ -21,7 +21,7 @@ Fully animated tic tac toe game as a demonstration of Framer Motion capabilities
 - [React MarkDown Editor- Demo](https://blissful-poincare-17ba17.netlify.app/)
 - [React MarkDown Editor - Repo](https://github.com/jamesmarriott/markdown-editor)
 
-### Squid Games
+### Squid Gamesa
 A bit of fun. Built using plain old vanilla JS/ CSS.
 - [Squid Game - App](https://jamesmarriott.github.io/SquidGame/)
 - [Squid Game - Repo](https://github.com/jamesmarriott/SquidGame)
