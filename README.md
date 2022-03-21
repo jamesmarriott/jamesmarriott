@@ -7,7 +7,7 @@ React Data Visualization Course | Using real time data from a cryptocurrency API
 
 ### Pie Chart Component
 - [Repo](https://github.com/jamesmarriott/React-D3-Pie-Chart)
-- [Demo](https://app.netlify.com/sites/d3-pie-chart-component/overview)
+- [Demo](https://d3-pie-chart-component.netlify.app/)
 
 ## Framer Motion Tic Tac Toe
 Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
