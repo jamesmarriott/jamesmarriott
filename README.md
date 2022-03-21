@@ -1,6 +1,7 @@
 ## React Data Visualization Projects
 
-- [Repo])(
+## Pie Chart Component
+- [Repo](
 - [YouTube](https://youtu.be/q42JGZG_-Yc)
 
 ## Pie Chart Component
