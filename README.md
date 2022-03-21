@@ -1,13 +1,7 @@
-Hi.
-
-I'm a web developer open for work.
-
-# Current Project
-
 ## React Data Visualization Projects
 
 - [Repo])(
-- [YouTube](
+- [YouTube](https://youtu.be/q42JGZG_-Yc)
 
 - Pie Chart Component
 - [Repo](
