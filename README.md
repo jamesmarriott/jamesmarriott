@@ -3,8 +3,9 @@
 - [Repo])(
 - [YouTube](https://youtu.be/q42JGZG_-Yc)
 
-- Pie Chart Component
+## Pie Chart Component
 - [Repo](https://github.com/jamesmarriott/React-D3-Pie-Chart)
+- [Demo](https://app.netlify.com/sites/d3-pie-chart-component/overview)
 
 ## Framer Motion Tic Tac Toe
 Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
