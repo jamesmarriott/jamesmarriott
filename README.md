@@ -1,17 +1,16 @@
 # Profile
 
-I'm a web developer focussing on data manipulation and visualisation using technologies like React and D3.
+I'm a web developer. I'm currently focusing on data manipulation and visualisation using technologies like React and D3.
 
 ## React & D3 - Data Visualisation 
 - [YouTube](https://youtu.be/q42JGZG_-Yc)
 
-## Pie Chart Component
+### Pie Chart Component
 - [Repo](https://github.com/jamesmarriott/React-D3-Pie-Chart)
 - [Demo](https://app.netlify.com/sites/d3-pie-chart-component/overview)
 
 ## Framer Motion Tic Tac Toe
 Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
-
 - [TicTacAnimate - Repo](https://github.com/jamesmarriott/react-tic-tac-animate/)
 - [TicTacAnimate - Demo](https://tic-tac-toe-react-framer-motion.netlify.app/)
 
