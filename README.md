@@ -4,6 +4,14 @@ I'm a web developer open for work.
 
 # Current Project
 
+## React Data Visualization Projects
+
+- [Repo])(
+- [YouTube](
+
+- Pie Chart Component
+- [Repo](
+
 ## Framer Motion Tic Tac Toe
 Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
 
