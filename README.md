@@ -1,7 +1,7 @@
 # I'm a web developer. 
 My current focus is on data manipulation and visualisation using React and D3.
 
-## React & D3 - Data Visualisation Course
+### React & D3 - Data Visualisation Course
 React Data Visualization Course | Using real time data from a cryptocurrency API
 - [YouTube](https://youtu.be/q42JGZG_-Yc)
 
@@ -9,10 +9,12 @@ React Data Visualization Course | Using real time data from a cryptocurrency API
 - [Repo](https://github.com/jamesmarriott/React-D3-Pie-Chart)
 - [Demo](https://d3-pie-chart-component.netlify.app/)
 
-## Framer Motion Tic Tac Toe
+### Framer Motion Tic Tac Toe
 Fully animated tic tac toe game as a demonstration of Framer Motion capabilities.
 - [TicTacAnimate - Repo](https://github.com/jamesmarriott/react-tic-tac-animate/)
 - [TicTacAnimate - Demo](https://tic-tac-toe-react-framer-motion.netlify.app/)
+
+## Older Projects
 
 ### Cartovex! For map and country data lovers.
 - [Cartovex - Repo](https://github.com/jamesmarriott/Cartovex)
